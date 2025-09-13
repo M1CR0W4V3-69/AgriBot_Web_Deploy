@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-google-genai  # ✅ ADD THIS
+chromadb
+gradio
+sentence-transformers
